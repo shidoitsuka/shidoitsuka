@@ -1,5 +1,8 @@
 
-[![Brian's github stats](https://github-readme-stats.vercel.app/api?username=shidoitsuka&hide=issues&count_private=true&show_icons=true&hide_border=true&)](https://github.com/shidoitsuka/)
+![Cover](https://raw.githubusercontent.com/shidoitsuka/shidoitsuka/master/cover.jpg)
+
+[![Brian's github stats](https://github-readme-stats.vercel.app/api?username=shidoitsuka&hide=issues&count_private=true&show_icons=true&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=5B5B5B&icon_color=8E8E8E)](https://github.com/shidoitsuka/)
+[![Brian's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shidoitsuka&layout=compact)](https://github.com/shidoitsuka/)
 
 <!--
 **shidoitsuka/shidoitsuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
